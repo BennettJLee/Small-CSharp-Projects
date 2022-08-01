@@ -1,0 +1,20 @@
+D:\University\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\bin\Debug\Coin Game.exe.config
+D:\University\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\bin\Debug\Coin Game.exe
+D:\University\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\bin\Debug\Coin Game.pdb
+D:\University\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin Game.csprojAssemblyReference.cache
+D:\University\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin_Game.Form1.resources
+D:\University\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin_Game.Properties.Resources.resources
+D:\University\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin Game.csproj.GenerateResource.cache
+D:\University\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin Game.exe
+D:\University\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin Game.pdb
+F:\University\100\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\bin\Debug\Coin Game.exe.config
+F:\University\100\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\bin\Debug\Coin Game.exe
+F:\University\100\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\bin\Debug\Coin Game.pdb
+F:\University\100\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin Game.csproj.AssemblyReference.cache
+F:\University\100\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin Game.csproj.SuggestedBindingRedirects.cache
+F:\University\100\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin_Game.Form1.resources
+F:\University\100\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin_Game.Properties.Resources.resources
+F:\University\100\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin Game.csproj.GenerateResource.cache
+F:\University\100\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin Game.csproj.CoreCompileInputs.cache
+F:\University\100\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin Game.exe
+F:\University\100\COMPX101\Week 4\Week4Prac\Coin Game\Coin Game\obj\Debug\Coin Game.pdb

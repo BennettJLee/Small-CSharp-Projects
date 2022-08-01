@@ -1,0 +1,86 @@
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-PracTest3-2011-chess\PracTest3\bin\Debug\PracTest3.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-PracTest3-2011-chess\PracTest3\bin\Debug\PracTest3.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-PracTest3-2011-chess\PracTest3\obj\x86\Debug\ResolveAssemblyReference.cache
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-PracTest3-2011-chess\PracTest3\obj\x86\Debug\PracTest3.Form1.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-PracTest3-2011-chess\PracTest3\obj\x86\Debug\PracTest3.Properties.Resources.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-PracTest3-2011-chess\PracTest3\obj\x86\Debug\GenerateResource.read.1.tlog
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-PracTest3-2011-chess\PracTest3\obj\x86\Debug\GenerateResource.write.1.tlog
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-PracTest3-2011-chess\PracTest3\obj\x86\Debug\PracTest3.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-PracTest3-2011-chess\PracTest3\obj\x86\Debug\PracTest3.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\PracTest3.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\PracTest3.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-Makeup-PracTest3-2011\PracTest3\bin\Debug\PracTest3.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-Makeup-PracTest3-2011\PracTest3\bin\Debug\PracTest3.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\ResolveAssemblyReference.cache
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\PracTest3.Form1.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\PracTest3.Properties.Resources.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\GenerateResource.read.1.tlog
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\2011\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\PracTest3.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\2011\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\PracTest3.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\2011\103-Makeup-PracTest3-2011\PracTest3\bin\Debug\PracTest3.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\2011\103-Makeup-PracTest3-2011\PracTest3\bin\Debug\PracTest3.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\2011\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\2011\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\PracTest3.Form1.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\2011\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\PracTest3.Properties.Resources.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\2011\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\2011\103-Makeup-PracTest3-2011\PracTest3\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Solutions\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\PracTest3.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Solutions\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\PracTest3.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Solutions\103-Checkers-PracTest3\PracTest3\bin\Debug\PracTest3.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Solutions\103-Checkers-PracTest3\PracTest3\bin\Debug\PracTest3.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Solutions\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Solutions\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\PracTest3.Form1.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Solutions\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\PracTest3.Properties.Resources.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Solutions\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Solutions\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\PracTest3.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\PracTest3.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-Checkers-PracTest3\PracTest3\bin\Debug\PracTest3.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-Checkers-PracTest3\PracTest3\bin\Debug\PracTest3.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\PracTest3.Form1.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\PracTest3.Properties.Resources.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-Checkers-PracTest3\PracTest3\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracTest3-Checkers-2013\PracTest3\obj\x86\Debug\PracTest3.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracTest3-Checkers-2013\PracTest3\obj\x86\Debug\PracTest3.pdb
+H:\103practest-folders\103-PracTest3-Fitbit\PracTest3\obj\x86\Debug\PracTest3.exe
+H:\103practest-folders\103-PracTest3-Fitbit\PracTest3\obj\x86\Debug\PracTest3.pdb
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\103practest-folders\103-PracTest3-Fitbit1\PracTest3\obj\x86\Debug\PracTest3.exe
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\103practest-folders\103-PracTest3-Fitbit1\PracTest3\obj\x86\Debug\PracTest3.pdb
+D:\University\COMPX101\Week 9\Week 9 Prac\Week9-Ex1\PracTest3\bin\Debug\PracTest3.exe
+D:\University\COMPX101\Week 9\Week 9 Prac\Week9-Ex1\PracTest3\bin\Debug\PracTest3.pdb
+D:\University\COMPX101\Week 9\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.csprojAssemblyReference.cache
+D:\University\COMPX101\Week 9\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.Form1.resources
+D:\University\COMPX101\Week 9\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.Properties.Resources.resources
+D:\University\COMPX101\Week 9\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.csproj.GenerateResource.cache
+D:\University\COMPX101\Week 9\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.exe
+D:\University\COMPX101\Week 9\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.pdb
+D:\University\COMPX101\Week 10\Week 9 Prac\Week9-Ex1\PracTest3\bin\Debug\PracTest3.exe
+D:\University\COMPX101\Week 10\Week 9 Prac\Week9-Ex1\PracTest3\bin\Debug\PracTest3.pdb
+D:\University\COMPX101\Week 10\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.csprojAssemblyReference.cache
+D:\University\COMPX101\Week 10\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.Form1.resources
+D:\University\COMPX101\Week 10\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.Properties.Resources.resources
+D:\University\COMPX101\Week 10\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.csproj.GenerateResource.cache
+D:\University\COMPX101\Week 10\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.exe
+D:\University\COMPX101\Week 10\Week 9 Prac\Week9-Ex1\PracTest3\obj\x86\Debug\PracTest3.pdb
+D:\University\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\bin\Debug\PracTest3.exe
+D:\University\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\bin\Debug\PracTest3.pdb
+D:\University\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.csprojAssemblyReference.cache
+D:\University\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.Form1.resources
+D:\University\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.Properties.Resources.resources
+D:\University\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.csproj.GenerateResource.cache
+D:\University\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.exe
+D:\University\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.pdb
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\bin\Debug\PracTest3.exe.config
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\bin\Debug\PracTest3.exe
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\bin\Debug\PracTest3.pdb
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.csproj.AssemblyReference.cache
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.csproj.SuggestedBindingRedirects.cache
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.Form1.resources
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.Properties.Resources.resources
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.csproj.GenerateResource.cache
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.csproj.CoreCompileInputs.cache
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.exe
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Week10-Ex1\PracTest3\obj\x86\Debug\PracTest3.pdb

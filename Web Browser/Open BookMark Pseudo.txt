@@ -1,0 +1,25 @@
+Declare variables
+Set the filter for the dialog control
+IF the user selects file and clicks on OK THEN
+	Open input file
+	Initialise BookMark list
+	WHILE not end of file
+		Read csv line from file
+		Split csv line storing values in an array
+		TRY
+			IF array has correct length THEN
+				Extract data into separate variables
+				Add bookmarks to lists
+			ELSE
+				Display corrupt CSV line to console
+				Window
+			ENDIF
+		CATCH
+			Display corrupt CSV line to console window
+		ENDCATCH
+	ENDWHILE
+	Close the input file
+	Set titlebar to show app name and filename
+	Update the listbox
+	Clear input controls
+ENDIF

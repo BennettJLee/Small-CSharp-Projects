@@ -1,0 +1,21 @@
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\bin\Debug\$100 Word challenge.exe.config
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\bin\Debug\$100 Word challenge.exe
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\bin\Debug\$100 Word challenge.pdb
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\_100_Word_challenge.Form1.resources
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\_100_Word_challenge.Properties.Resources.resources
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\$100 Word challenge.csproj.GenerateResource.cache
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\$100 Word challenge.csproj.CoreCompileInputs.cache
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\$100 Word challenge.exe
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\$100 Word challenge.pdb
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\$100 Word challenge.csproj.AssemblyReference.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\bin\Debug\$100 Word challenge.exe.config
+F:\University\100\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\bin\Debug\$100 Word challenge.exe
+F:\University\100\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\bin\Debug\$100 Word challenge.pdb
+F:\University\100\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\$100 Word challenge.csproj.AssemblyReference.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\$100 Word challenge.csproj.SuggestedBindingRedirects.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\_100_Word_challenge.Form1.resources
+F:\University\100\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\_100_Word_challenge.Properties.Resources.resources
+F:\University\100\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\$100 Word challenge.csproj.GenerateResource.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\$100 Word challenge.csproj.CoreCompileInputs.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\$100 Word challenge.exe
+F:\University\100\compx102\Pracs\Prac2\Prac 2\$100 Word challenge\obj\Debug\$100 Word challenge.pdb

@@ -1,0 +1,22 @@
+D:\University\Level 1\compx102\Pracs\Prac2\PracP2\PracP2-Task1\Practical\bin\Debug\Practical.exe.config
+D:\University\Level 1\compx102\Pracs\Prac2\PracP2\PracP2-Task1\Practical\bin\Debug\Practical.exe
+D:\University\Level 1\compx102\Pracs\Prac2\PracP2\PracP2-Task1\Practical\bin\Debug\Practical.pdb
+D:\University\Level 1\compx102\Pracs\Prac2\PracP2\PracP2-Task1\Practical\obj\Debug\Practical.csprojAssemblyReference.cache
+D:\University\Level 1\compx102\Pracs\Prac2\PracP2\PracP2-Task1\Practical\obj\Debug\Practical.csproj.CoreCompileInputs.cache
+D:\University\Level 1\compx102\Pracs\Prac2\PracP2\PracP2-Task1\Practical\obj\Debug\Practical.exe
+D:\University\Level 1\compx102\Pracs\Prac2\PracP2\PracP2-Task1\Practical\obj\Debug\Practical.pdb
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\obj\Debug\Practical.csprojAssemblyReference.cache
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\obj\Debug\Practical.csproj.CoreCompileInputs.cache
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\obj\Debug\Practical.exe
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\obj\Debug\Practical.pdb
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\bin\Debug\Practical.exe.config
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\bin\Debug\Practical.exe
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\bin\Debug\Practical.pdb
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\bin\Debug\Practical.exe.config
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\bin\Debug\Practical.exe
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\bin\Debug\Practical.pdb
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\obj\Debug\Practical.csproj.AssemblyReference.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\obj\Debug\Practical.csproj.SuggestedBindingRedirects.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\obj\Debug\Practical.csproj.CoreCompileInputs.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\obj\Debug\Practical.exe
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Console RowsandColumns\Practical\obj\Debug\Practical.pdb

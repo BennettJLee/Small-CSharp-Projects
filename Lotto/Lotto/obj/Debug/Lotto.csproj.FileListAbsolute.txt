@@ -1,0 +1,21 @@
+D:\University\Level 1\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.csproj.AssemblyReference.cache
+D:\University\Level 1\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.Form1.resources
+D:\University\Level 1\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+D:\University\Level 1\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.csproj.GenerateResource.cache
+D:\University\Level 1\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+D:\University\Level 1\compx102\Pracs\Prac5\Lotto\bin\Debug\Lotto.exe.config
+D:\University\Level 1\compx102\Pracs\Prac5\Lotto\bin\Debug\Lotto.exe
+D:\University\Level 1\compx102\Pracs\Prac5\Lotto\bin\Debug\Lotto.pdb
+D:\University\Level 1\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.exe
+D:\University\Level 1\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.pdb
+F:\University\100\compx102\Pracs\Prac5\Lotto\bin\Debug\Lotto.exe.config
+F:\University\100\compx102\Pracs\Prac5\Lotto\bin\Debug\Lotto.exe
+F:\University\100\compx102\Pracs\Prac5\Lotto\bin\Debug\Lotto.pdb
+F:\University\100\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.csproj.AssemblyReference.cache
+F:\University\100\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.csproj.SuggestedBindingRedirects.cache
+F:\University\100\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.Form1.resources
+F:\University\100\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+F:\University\100\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.csproj.GenerateResource.cache
+F:\University\100\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+F:\University\100\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.exe
+F:\University\100\compx102\Pracs\Prac5\Lotto\obj\Debug\Lotto.pdb

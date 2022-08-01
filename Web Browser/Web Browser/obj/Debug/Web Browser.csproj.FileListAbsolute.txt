@@ -1,0 +1,20 @@
+D:\University\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+D:\University\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+D:\University\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+D:\University\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web Browser.csprojAssemblyReference.cache
+D:\University\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+D:\University\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+D:\University\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+D:\University\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+D:\University\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.AssemblyReference.cache
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.SuggestedBindingRedirects.cache
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+F:\University\100\COMPX101\Week 10\Week 10 Prac\Web Browser\Web Browser\obj\Debug\Web Browser.pdb

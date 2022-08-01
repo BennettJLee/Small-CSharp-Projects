@@ -1,0 +1,21 @@
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word Value.csproj.AssemblyReference.cache
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word_Value.Form1.resources
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word_Value.Properties.Resources.resources
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word Value.csproj.GenerateResource.cache
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word Value.csproj.CoreCompileInputs.cache
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Word Value\bin\Debug\Word Value.exe.config
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Word Value\bin\Debug\Word Value.exe
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Word Value\bin\Debug\Word Value.pdb
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word Value.exe
+D:\University\Level 1\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word Value.pdb
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Word Value\bin\Debug\Word Value.exe.config
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Word Value\bin\Debug\Word Value.exe
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Word Value\bin\Debug\Word Value.pdb
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word Value.csproj.AssemblyReference.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word Value.csproj.SuggestedBindingRedirects.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word_Value.Form1.resources
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word_Value.Properties.Resources.resources
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word Value.csproj.GenerateResource.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word Value.csproj.CoreCompileInputs.cache
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word Value.exe
+F:\University\100\compx102\Pracs\Prac2\Prac 2\Word Value\obj\Debug\Word Value.pdb
